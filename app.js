@@ -6,7 +6,7 @@ const mode = document.getElementById("jsFill")
 const saveBtn = document.getElementById("jsSave")
 const currentColor = document.getElementById("currentColor");
 
-const CANVAS_SIZE = 600;
+const CANVAS_SIZE = 500;
 const INITIAL_COLOR = "#2c2c2c";
 let currentColorCode = INITIAL_COLOR
 console.log(currentColor.style.backgroundColor)
